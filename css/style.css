@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+nav { 
+    background-color: #3b3a3a;
+    color: cornsilk;
+    
+}
+.nav-heading{
+    margin-left: 36%;
+    font-size: 41px;
+}
+.array-inputs{
+   display: flex;
+    justify-content: center;
+    padding: 10px;
+    margin: auto;
+ 
+}
+
+.size{
+    display: flex;
+    margin: 0px 172px 0px -101px;
+}
+
+.speed{
+    display: flex;
+    margin: 0px 95px -3px 37px;
+}
+
+#a_generate{
+    cursor: pointer;
+    background-color: transparent;
+    color: white;
+    padding: 3px 15px;
+}
+
+
+section{
+    display: flex;
+}
+
+.algos {
+    display: flex;
+    /* background-color: darkblue; */
+    width: 100%;
+    justify-content: center;
+}
+
+.algos button{
+    margin: 10px 19px 10px 82px;
+    padding: 1px 14px 5px 3px;
+    font-size: 16px;
+    background-color: transparent;
+    color: wheat;
+}
+
+.algos button:hover {
+    background-color: rgb(0, 255, 98);
+    cursor: pointer;
+}
+#array_container{
+    display: flex;
+    width: 70%;
+    height: 70vh;
+    background-color: darkred;
+    margin: auto;
+}
+
