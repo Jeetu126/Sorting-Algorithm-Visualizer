@@ -68,7 +68,7 @@ section{
     display: flex;
     width: 70%;
     height: 70vh;
-    background-color: darkred;
+    /* background-color: darkred;s */
     margin: auto;
 }
 
